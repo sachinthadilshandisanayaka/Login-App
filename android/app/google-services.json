@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "866392412093",
+    "firebase_url": "https://logginapp-63c7f.firebaseio.com",
+    "project_id": "logginapp-63c7f",
+    "storage_bucket": "logginapp-63c7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866392412093:android:ade48a3d3ea28b17264cd4",
+        "android_client_info": {
+          "package_name": "com.sachidisanayaka.logging_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866392412093-09cr2kobt8e4dp08vtvuph00k9ju707l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRo09sciaDyMSrmL6tOWp_Jrqdrz545Dg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866392412093-09cr2kobt8e4dp08vtvuph00k9ju707l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
